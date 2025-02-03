@@ -54,13 +54,12 @@ git clone https://github.com/mhazi1/tg-dev-portal.git
 cd tg-dev-portal
 ```
 
-2. Install PHP dependencies
+2. Install PHP 
+- [Guide on installing PHP for Windows 10/11](https://www.youtube.com/watch?v=n04w2SzGr_U)
+
+3. Install Composer and NPM dependencies
 ```bash
 composer install
-```
-
-3. Install NPM dependencies
-```bash
 npm install
 ```
 
